@@ -1,0 +1,64 @@
+# Privacy Policy
+
+## Introduction
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our application (the "App"). By accessing or using the App, you agree to the terms outlined in this policy.
+
+---
+
+## Information We Collect
+1. **User-Provided Information:**
+   - When you interact with the App, we may collect information such as:
+     - Prompts or text inputs used to generate images.
+     - Feedback or reports submitted via the App.
+
+2. **Automatically Collected Information:**
+   - We may collect non-personal data such as:
+     - IP address.
+     - Device type and operating system.
+     - Usage statistics (e.g., time spent on the App).
+
+3. **Third-Party Services:**
+   - We may use third-party services (e.g., hosting, analytics) which may collect additional information. Their use is subject to their respective privacy policies.
+
+---
+
+## How We Use Your Information
+- **To Provide the Service:**
+  - Generate images based on user inputs.
+  - Improve the functionality and user experience of the App.
+
+- **To Enforce Policies:**
+  - Detect and prevent misuse of the App, such as attempts to create abusive, lewd, or pornographic content.
+
+- **To Communicate:**
+  - Respond to user inquiries or feedback.
+
+---
+
+## Sharing Your Information
+We do not sell or share your personal information with third parties, except in the following cases:
+- **Legal Compliance:** When required to comply with legal obligations or to enforce our rights.
+- **Service Providers:** Trusted third parties that help us operate the App under strict confidentiality agreements.
+
+---
+
+## Data Retention
+- Prompt data and usage logs are retained temporarily to enhance service quality and are deleted after a reasonable period unless required for legal compliance or abuse detection.
+
+---
+
+## Your Rights
+- Access, update, or delete your data by contacting us via the email provided in the App.
+- Opt-out of non-essential data collection.
+
+---
+
+## Updates to This Policy
+We may update this Privacy Policy periodically. Any changes will be posted on this page, with the "Last Updated" date adjusted accordingly.
+
+---
+
+## Contact
+For questions or concerns about this Privacy Policy, please contact us at: [your-email@example.com]
+
+---
